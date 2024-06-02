@@ -1,5 +1,9 @@
 # Home Credit Default Risk Prediction
-
+#  content 
+the full notebook 
+the ppt file 
+فاث
+فاث the
 ## Description
 
 The Home Credit Default Risk Prediction project aims to predict the likelihood of default on a loan application based on various features provided by Home Credit, a non-banking financial institution. The project utilizes machine learning techniques to analyze historical loan data and develop predictive models to assist in credit risk assessment.
